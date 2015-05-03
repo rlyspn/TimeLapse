@@ -1,0 +1,8 @@
+{
+  "frames_per_second": 16, 
+  "height": 600, 
+  "image_dir": "images", 
+  "quality": 25, 
+  "video_file": "time_lapse.mp4", 
+  "width": 800
+}
